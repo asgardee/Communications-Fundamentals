@@ -1,0 +1,7 @@
+SPI - 
+I2C - 
+UART - 
+
+Downloading Quartus Prime Lite 20.1 for Cyclone IV Chip:
+	https://community.intel.com/t5/Intel-FPGA-Software-Installation/quot-Quartus-Prime-Lite-Edition-quot-unable-to-download/m-p/1229333#M2445
+FPGA - 
